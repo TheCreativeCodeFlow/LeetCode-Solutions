@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
