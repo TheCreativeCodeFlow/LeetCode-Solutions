@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
