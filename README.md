@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
