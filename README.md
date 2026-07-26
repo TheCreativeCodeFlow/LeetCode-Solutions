@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
