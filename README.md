@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
