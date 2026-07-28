@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
