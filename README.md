@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
