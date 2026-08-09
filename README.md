@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
