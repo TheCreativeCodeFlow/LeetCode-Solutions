@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
