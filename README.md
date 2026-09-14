@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0836-rectangle-overlap](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
