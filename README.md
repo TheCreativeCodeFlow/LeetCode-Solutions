@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Sorting
