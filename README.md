@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
