@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Trie
 |  |
