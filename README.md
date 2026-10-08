@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
