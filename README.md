@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
