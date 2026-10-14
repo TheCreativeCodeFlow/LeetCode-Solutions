@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
