@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Database
 |  |
 | ------- |
