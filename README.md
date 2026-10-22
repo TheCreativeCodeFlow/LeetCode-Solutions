@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -308,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
