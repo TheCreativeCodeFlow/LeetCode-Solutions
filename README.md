@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
