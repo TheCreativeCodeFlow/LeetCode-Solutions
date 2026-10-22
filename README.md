@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
