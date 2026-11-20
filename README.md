@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0476-number-complement) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/TheCreativeCodeFlow/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
